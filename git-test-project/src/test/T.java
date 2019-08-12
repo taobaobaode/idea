@@ -9,4 +9,11 @@ public class T {
         System.out.println("15");
 
     }
+
+    public void tet(){
+        System.out.println("13");
+        System.out.println("14");
+        System.out.println("15");
+    }
+
 }
